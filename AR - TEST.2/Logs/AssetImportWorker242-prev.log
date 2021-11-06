@@ -1,0 +1,45 @@
+Using pre-set license
+Built from '2021.1/release' branch; Version is '2021.1.1f1 (6fdc41dfa55a) revision 7330881'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19043.1288; Version 2009; 64bit' Language: 'en' Physical Memory: 7631 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Users\ceo\Downloads\2021.1.1f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker242
+-projectPath
+C:/Users/ceo/AR-GAMEHEADS/AR - TEST.2
+-logFile
+Logs/AssetImportWorker242.log
+-srvPort
+56207
+Successfully changed project path to: C:/Users/ceo/AR-GAMEHEADS/AR - TEST.2
+C:/Users/ceo/AR-GAMEHEADS/AR - TEST.2
+Using Asset Import Pipeline V2.
+Assertion failed on expression: 'm_ErrorCode == MDB_MAP_RESIZED || !HasAbortingErrors()'
+
+received signal from system: SIGSEGV
+Stack trace:
+0x00007ff62866402c (Unity) StackWalker::GetCurrentCallstack
+0x00007ff62866a1c9 (Unity) StackWalker::ShowCallstack
+0x00007ff628e5bc93 (Unity) GetStacktrace
+0x00007ff628663710 (Unity) winutils::CrashHandler::DefaultSignalHandler
+0x00007ff62aa1d046 (Unity) seh_filter_exe
+0x00007ff62aae586d (Unity) `__scrt_common_main_seh'::`1'::filt$0
+0x00007ff62a9e9ff8 (Unity) _C_specific_handler
+0x00007ff9cd6320cf (ntdll) _chkstk
+0x00007ff9cd5e1454 (ntdll) RtlRaiseException
+0x00007ff9cd630bfe (ntdll) KiUserExceptionDispatcher
+0x00007ff628f8647b (Unity) SourceAssetDBReadTxn::SourceAssetDBReadTxn
+0x00007ff628f54976 (Unity) SyncAssetFoldersWithDB
+0x00007ff628f42a5d (Unity) InitializeAssetDatabaseV2
+0x00007ff628ee0e75 (Unity) AssetDatabase::InitializeAssetDatabase
+0x00007ff628a576c0 (Unity) Application::InitializeProject
+0x00007ff628e65347 (Unity) WinMain
+0x00007ff62a9c7832 (Unity) __scrt_common_main_seh
+0x00007ff9cd2d7034 (KERNEL32) BaseThreadInitThunk
+0x00007ff9cd5e2651 (ntdll) RtlUserThreadStart
+

@@ -1,0 +1,27 @@
+Using pre-set license
+Built from '2021.1/release' branch; Version is '2021.1.1f1 (6fdc41dfa55a) revision 7330881'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19043.1288; Version 2009; 64bit' Language: 'en' Physical Memory: 7631 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Users\ceo\Downloads\2021.1.1f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker81
+-projectPath
+C:/Users/ceo/AR-GAMEHEADS/AR - TEST.2
+-logFile
+Logs/AssetImportWorker81.log
+-srvPort
+56207
+Successfully changed project path to: C:/Users/ceo/AR-GAMEHEADS/AR - TEST.2
+C:/Users/ceo/AR-GAMEHEADS/AR - TEST.2
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 7539.72 ms, found 4 plugins.
+Preloading 2 native plugins for Editor in 397.25 ms.
+Initialize engine version: 2021.1.1f1 (6fdc41dfa55a)
+[Subsystems] Discovering subsystems at path C:/Users/ceo/Downloads/2021.1.1f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/ceo/AR-GAMEHEADS/AR - TEST.2/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
