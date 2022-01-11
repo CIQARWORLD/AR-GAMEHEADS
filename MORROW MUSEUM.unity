@@ -137,7 +137,7 @@ GameObject:
   - component: {fileID: 13437951}
   - component: {fileID: 13437950}
   m_Layer: 0
-  m_Name: Racket (15)
+  m_Name: CURLY HAIR NARRATIVE
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -151,7 +151,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 13437948}
   m_LocalRotation: {x: 0.008893783, y: 0.70705086, z: 0.7070509, w: 0.008893871}
-  m_LocalPosition: {x: 1.632, y: 0.392, z: 1.43}
+  m_LocalPosition: {x: 1.516, y: 0.36, z: 1.43}
   m_LocalScale: {x: 0.5, y: 0.05, z: 0.7}
   m_Children: []
   m_Father: {fileID: 819780140}
@@ -249,7 +249,7 @@ GameObject:
   - component: {fileID: 249801194}
   - component: {fileID: 249801193}
   m_Layer: 0
-  m_Name: Racket (10)
+  m_Name: CURLY HAIR ANATOMY PIC
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -263,7 +263,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 249801191}
   m_LocalRotation: {x: 0.008893783, y: 0.70705086, z: 0.7070509, w: 0.008893871}
-  m_LocalPosition: {x: 1.558, y: -0.367, z: 1.43}
+  m_LocalPosition: {x: 1.492, y: -0.366, z: 1.43}
   m_LocalScale: {x: 0.5, y: 0.05, z: 0.7}
   m_Children: []
   m_Father: {fileID: 819780140}
@@ -361,7 +361,7 @@ GameObject:
   - component: {fileID: 365049196}
   - component: {fileID: 365049195}
   m_Layer: 0
-  m_Name: Racket (3)
+  m_Name: 400 TEARS WITHOUT A COMB PIC
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -566,7 +566,7 @@ GameObject:
   - component: {fileID: 764630714}
   - component: {fileID: 764630713}
   m_Layer: 0
-  m_Name: Racket (2)
+  m_Name: NATURAL WOMEN PIC
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -580,7 +580,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 764630711}
   m_LocalRotation: {x: -0.0047841095, y: 0.70709074, z: 0.70709056, w: -0.0047840155}
-  m_LocalPosition: {x: 0.977, y: -0.37, z: 1.43}
+  m_LocalPosition: {x: 0.927, y: -0.371, z: 1.43}
   m_LocalScale: {x: 0.5, y: 0.05, z: 0.7}
   m_Children: []
   m_Father: {fileID: 819780140}
@@ -778,7 +778,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 819780135}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: -1.85}
+  m_LocalPosition: {x: 0, y: 0, z: -2.526}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1499632426}
@@ -869,7 +869,7 @@ GameObject:
   - component: {fileID: 981851782}
   - component: {fileID: 981851781}
   m_Layer: 0
-  m_Name: Racket (8)
+  m_Name: MORROW AFROVERSE NARRATIVE
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -883,7 +883,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 981851779}
   m_LocalRotation: {x: 0.009167359, y: 0.7287998, z: 0.6846114, w: 0.00861161}
-  m_LocalPosition: {x: -0.769, y: 0.379, z: 1.43}
+  m_LocalPosition: {x: -0.663, y: 0.377, z: 1.43}
   m_LocalScale: {x: 0.5, y: 0.05, z: 0.7}
   m_Children: []
   m_Father: {fileID: 819780140}
@@ -981,7 +981,7 @@ GameObject:
   - component: {fileID: 1183416905}
   - component: {fileID: 1183416904}
   m_Layer: 0
-  m_Name: Racket (4)
+  m_Name: 400 YEARS WITHOUT A COMB NARRATIVE
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -995,7 +995,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1183416902}
   m_LocalRotation: {x: 0.009167359, y: 0.7287998, z: 0.6846114, w: 0.00861161}
-  m_LocalPosition: {x: -0.17, y: 0.36, z: 1.43}
+  m_LocalPosition: {x: -0.133, y: 0.359, z: 1.43}
   m_LocalScale: {x: 0.5, y: 0.05, z: 0.7}
   m_Children: []
   m_Father: {fileID: 819780140}
@@ -1093,7 +1093,7 @@ GameObject:
   - component: {fileID: 1271711059}
   - component: {fileID: 1271711058}
   m_Layer: 0
-  m_Name: Racket (7)
+  m_Name: MORROW AFROVERSE PIC
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1107,7 +1107,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1271711056}
   m_LocalRotation: {x: 0.008893783, y: 0.70705086, z: 0.7070509, w: 0.008893871}
-  m_LocalPosition: {x: -0.751, y: -0.352, z: 1.43}
+  m_LocalPosition: {x: -0.669, y: -0.354, z: 1.43}
   m_LocalScale: {x: 0.5, y: 0.05, z: 0.7}
   m_Children: []
   m_Father: {fileID: 819780140}
@@ -1205,7 +1205,7 @@ GameObject:
   - component: {fileID: 1315055238}
   - component: {fileID: 1315055237}
   m_Layer: 0
-  m_Name: Racket (6)
+  m_Name: MATURAL WOMEN NARRATIVE
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1219,7 +1219,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1315055235}
   m_LocalRotation: {x: 0.009167359, y: 0.7287998, z: 0.6846114, w: 0.00861161}
-  m_LocalPosition: {x: 1.03, y: 0.362, z: 1.381}
+  m_LocalPosition: {x: 0.956, y: 0.325, z: 1.383}
   m_LocalScale: {x: 0.5, y: 0.05, z: 0.7}
   m_Children: []
   m_Father: {fileID: 819780140}
@@ -1317,7 +1317,7 @@ GameObject:
   - component: {fileID: 1382687733}
   - component: {fileID: 1382687732}
   m_Layer: 0
-  m_Name: Racket (9)
+  m_Name: 400 YEARS PIC
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1331,7 +1331,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1382687730}
   m_LocalRotation: {x: 0.008893783, y: 0.70705086, z: 0.7070509, w: 0.008893871}
-  m_LocalPosition: {x: -1.385, y: -0.351, z: 1.43}
+  m_LocalPosition: {x: -1.224, y: -0.355, z: 1.43}
   m_LocalScale: {x: 0.5, y: 0.05, z: 0.7}
   m_Children: []
   m_Father: {fileID: 819780140}
@@ -1429,7 +1429,7 @@ GameObject:
   - component: {fileID: 1417583923}
   - component: {fileID: 1417583922}
   m_Layer: 0
-  m_Name: Racket (12)
+  m_Name: 400 YEARS NARRATIVE
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1443,7 +1443,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1417583920}
   m_LocalRotation: {x: 0.008893783, y: 0.70705086, z: 0.7070509, w: 0.008893871}
-  m_LocalPosition: {x: -1.391, y: 0.386, z: 1.43}
+  m_LocalPosition: {x: -1.223, y: 0.382, z: 1.43}
   m_LocalScale: {x: 0.5, y: 0.05, z: 0.7}
   m_Children: []
   m_Father: {fileID: 819780140}
@@ -1541,7 +1541,7 @@ GameObject:
   - component: {fileID: 1499632428}
   - component: {fileID: 1499632427}
   m_Layer: 0
-  m_Name: Racket (1)
+  m_Name: AS ABOVE AS BELOW PIC
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1555,7 +1555,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1499632425}
   m_LocalRotation: {x: 0.0058014933, y: 0.70708305, z: 0.707083, w: 0.005801616}
-  m_LocalPosition: {x: 0.42, y: -0.37, z: 1.43}
+  m_LocalPosition: {x: 0.377, y: -0.369, z: 1.43}
   m_LocalScale: {x: 0.5, y: 0.05, z: 0.7}
   m_Children: []
   m_Father: {fileID: 819780140}
@@ -1677,7 +1677,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1730718919}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: -0.187}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 819780140}
@@ -1698,7 +1698,7 @@ GameObject:
   - component: {fileID: 2142576532}
   - component: {fileID: 2142576531}
   m_Layer: 0
-  m_Name: Racket (5)
+  m_Name: AS ABOVE AS BELOW NARRATIVE
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1712,7 +1712,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2142576529}
   m_LocalRotation: {x: 0.009167359, y: 0.7287998, z: 0.6846114, w: 0.00861161}
-  m_LocalPosition: {x: 0.463, y: 0.347, z: 1.43}
+  m_LocalPosition: {x: 0.424, y: 0.348, z: 1.43}
   m_LocalScale: {x: 0.5, y: 0.05, z: 0.7}
   m_Children: []
   m_Father: {fileID: 819780140}
